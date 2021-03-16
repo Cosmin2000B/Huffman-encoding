@@ -1,0 +1,31 @@
+Letter frequency:
+
+Letter	Frequency of Apparitions
+	a			0.0842
+	b			0.0145
+	c			0.0341
+	d			0.0404
+	e			0.13
+	f			0.0238
+	g			0.0197
+	h			0.0538
+	i			0.0664
+	j			0.00181
+	k			0.00695
+	l			0.0402
+	m			0.0231
+	n			0.0702
+	o			0.0724
+	p			0.0177
+	q			0.00329
+	r			0.0725
+	s			0.0638
+	t			0.0859
+	u			0.0274
+	v			0.0112
+	w			0.0181
+	x			0.00126
+	y			0.0163
+	z			0.000493
+
+The sum of all frequencies is: 1 ( sum = 1 => the process is valid )

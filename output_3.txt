@@ -1,0 +1,35 @@
+Letters codes:
+
+Letter	Letter encoding
+	a		1111
+	b		010110
+	c		10100
+	d		11101
+	e		100
+	f		00110
+	g		00100
+	h		0100
+	i		0111
+	j		001111011
+	k		0011111
+	l		11100
+	m		00101
+	n		1011
+	o		1100
+	p		101010
+	q		00111100
+	r		1101
+	s		0110
+	t		000
+	u		01010
+	v		001110
+	w		101011
+	x		0011110101
+	y		010111
+	z		0011110100
+
+Root's frequency: 1 (if frequency = 1 -> correct preocess)
+Huffman's encoding took 76738 bits to encode the input text and a uniform encoding would take 91320 bits, so the first way takes 17% less space (being by that percent more efficient)
+
+01111100101110001101010001010 1111. 10100110001100010101111011 01000000001010100110://101011101011101011.111000111101100111111001110101111011.10100110000101/01111011/10100110001100010101111011-01111100101110001101010001010-
+ionescu a. cosmin https://www.linkedin.com/in/cosmin-ionescu-4814171b3/

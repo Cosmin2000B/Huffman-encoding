@@ -1,0 +1,30 @@
+Letter apparition:
+
+Letter	Number of Apparitions
+	a			1537
+	b			265
+	c			623
+	d			738
+	e			2383
+	f			434
+	g			359
+	h			983
+	i			1212
+	j			33
+	k			127
+	l			735
+	m			421
+	n			1283
+	o			1323
+	p			323
+	q			60
+	r			1324
+	s			1166
+	t			1568
+	u			501
+	v			205
+	w			331
+	x			23
+	y			298
+	z			9
+Total number of letters: 18264
