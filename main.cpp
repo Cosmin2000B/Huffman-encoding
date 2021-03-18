@@ -22,6 +22,9 @@ int main()
     bt->buildQueue(f->getFre());
     bt->buildBinaryTree();
     bt->showCodes("output_3.txt", r->getAp());
+
+    // on this case, I could've let the object run out of
+    // scope
     bt->delete_Tree(bt->getRoot());
 
     return 0;

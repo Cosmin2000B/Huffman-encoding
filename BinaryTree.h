@@ -69,4 +69,5 @@ class BinaryTree
         std::string decode(Node* aroot, std::string input);
 
         void delete_Tree(Node* aroot);
+        ~BinaryTree();
 };
