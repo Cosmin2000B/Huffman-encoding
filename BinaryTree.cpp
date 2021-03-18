@@ -199,3 +199,8 @@ void BinaryTree::delete_Tree(Node* aroot)
     // delete node
     delete aroot;
 }
+
+BinaryTree::~BinaryTree()
+{
+    BinaryTree::delete_Tree(this->root);
+}
